@@ -8,6 +8,7 @@ Projeto desenvolvido em Grupo:
 - Ricardo Adley da Silva Sena - 119110702
 
 Frisos Realizados:
+ Os frisos foram realizados utilizando a linguagem de programação python e o código é executado por meio de arquivos bash.
 - (1)Translação
 - (2)Reflexão Horizontal
 - (3)Reflexao Vertical
